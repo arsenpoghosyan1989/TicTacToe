@@ -1,0 +1,19 @@
+.nobull {
+  list-style-type: none;
+  columns: 3;
+  width: 220px;
+  height: 220px;
+  column-gap: 5px;
+  background-color: #5c9cab;
+  margin: 30px;
+  padding: 0px;
+}
+
+ul li {
+  width: 70px;
+  height: 70px;
+  line-height: 47px;
+  font-size: 70px;
+  background-color: white;
+  margin: 0 0 5px 0;
+}
